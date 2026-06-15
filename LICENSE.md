@@ -13,17 +13,26 @@ Le Logiciel est protégé par le droit d’auteur conformément au Code de la pr
 Le Logiciel est mis à disposition gratuitement (freeware).
 
 Sont autorisés :
+
 ✅ l’utilisation à titre personnel
+
 ✅ l’utilisation à titre professionnel
+
 ✅ l’utilisation au sein d’organismes publics ou privés
+
 ✅ le partage du lien officiel vers le dépôt d’origine
 
 ## 3. Restrictions
 Sont strictement interdits sans autorisation écrite préalable de l’auteur :
+
 ❌ la modification du code source
+
 ❌ la redistribution du code (modifié ou non)
+
 ❌ la commercialisation, revente ou intégration dans une offre payante
+
 ❌ la suppression des mentions de propriété intellectuelle
+
 ❌ la création d’une version dérivée
 
 ## 4. Nature de l’outil
