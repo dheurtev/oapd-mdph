@@ -78,13 +78,13 @@ La présente licence ne constitue pas une cession de droits.
 
 Sont strictement interdits sans autorisation écrite préalable de l’auteur :
 
-❌ toute reproduction intégrale ou substantielle du Logiciel, sous quelque forme que ce soit
+❌ toute reproduction intégrale ou substantielle du Logiciel, à des fins d’exploitation ou de redistribution
 
 ❌ toute redistribution ou mise à disposition organisée du Logiciel, même à titre gratuit
 
 ❌ toute création d’œuvre dérivée reprenant de manière substantielle la structure, l’organisation ou la logique du Logiciel
 
-❌ tout fork, clonage ou duplication du dépôt d’origine en vue d’une diffusion publique ou d’une exploitation
+❌ tout fork, clonage ou duplication du dépôt en vue d’une exploitation, redistribution ou mise à disposition publique en dehors des fonctionnalités techniques internes à GitHub
 
 ❌ toute mise à disposition sur une autre plateforme, site web, dépôt ou service en ligne
 
