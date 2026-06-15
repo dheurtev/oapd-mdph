@@ -30,17 +30,30 @@ est une œuvre protégée par le Code de la propriété intellectuelle.
 
 ---
 
-## 3. Nature de l’outil
+## 3. Nature et finalité de l’outil
 
-**Le Logiciel constitue un outil d’assistance administrative.**
+**Le Logiciel constitue exclusivement un outil d’assistance administrative et rédactionnelle.**
 
-Il :
-- ne remplace pas un professionnel de santé,
-- ne constitue pas un dispositif médical,
-- ne fournit pas d’avis médical ou juridique,
-- ne produit aucune décision opposable.
+Il a pour seule finalité d’aider à la structuration et à la formulation de documents destinés à accompagner une démarche administrative.
 
-**L’utilisateur demeure seul responsable de la validation finale des documents produits.**
+Le Logiciel :
+- ne remplace ni un médecin, ni un autre professionnel de santé, ni un professionnel du droit ;
+- ne constitue pas un dispositif médical au sens de la réglementation applicable ;
+- ne fournit aucun avis médical, paramédical ou juridique ;
+- ne réalise aucun diagnostic médical ou médico‑social ;
+- ne procède à aucune évaluation clinique ;
+- ne garantit ni l’exhaustivité de l’analyse, ni l’exactitude, ni l’actualité des informations générées ;
+- ne garantit en aucun cas la décision ou la suite qui sera donnée par la MDPH ou toute autre autorité administrative ;
+- ne se substitue ni au certificat médical réglementaire, ni à l’évaluation réalisée par les équipes pluridisciplinaires, ni à la décision de la CDAPH ;
+- ne produit aucune décision administrative ou opposable.
+
+Le Logiciel fonctionne sur la base des informations saisies par l’utilisateur et génère un contenu automatisé susceptible de comporter des approximations ou erreurs.
+
+L’utilisateur demeure seul responsable :
+- de la vérification,
+- de la validation,
+- de l’adaptation,
+- et de l’utilisation finale des documents produits
 
 ---
 
