@@ -73,13 +73,13 @@ L’utilisateur assume l’intégralité des risques liés à son utilisation.
 
 ## 5. Licence d’utilisation gratuite (Freeware)
 
-Sous réserve du respect des présentes conditions, l’auteur accorde une licence personnelle, non exclusive, non transférable et révocable permettant :
+Sous réserve du respect des présentes conditions, l’auteur accorde une licence personnelle, non exclusive, non transférable et révocable (en cas de violation des conditions) permettant :
 
 ✅ l’utilisation gratuite du Logiciel
 
-✅ l’utilisation professionnelle interne
+✅ l’utilisation professionnelle interne, y compris dans le cadre de la relation physique praticien-patient
 
-✅ l’usage interne au sein d’organismes publics, privés ou associatifs
+✅ l’usage interne au sein d’organismes publics, privés ou associatifs, y compris dans le cadre de la relation physique avec les usagers
 
 ✅ le partage du lien officiel vers le dépôt d’origine
 
@@ -88,6 +88,10 @@ La présente licence ne constitue pas une cession de droits.
 ---
 
 ## 6. Interdictions absolues
+
+La simple consultation ou analyse du contenu public ne constitue pas en soi une violation.
+
+L’utilisation du Logiciel comme simple outil interne dans le cadre d’une activité professionnelle facturée (consultation, accompagnement, suivi administratif) ne constitue pas en soi une exploitation commerciale interdite.
 
 Sont strictement interdits sans autorisation écrite préalable de l’auteur :
 
@@ -108,8 +112,6 @@ Sont strictement interdits sans autorisation écrite préalable de l’auteur :
 ❌ toute suppression, altération ou dissimulation des mentions d’auteur ou de licence
 
 La protection s’étend à la structure, à l’organisation et à la logique interne du Logiciel lorsqu’elles sont reprises de manière substantielle ou organisée.
-
-La simple consultation ou analyse du contenu public ne constitue pas en soi une violation.
 
 ---
 
